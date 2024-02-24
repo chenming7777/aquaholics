@@ -1,0 +1,6 @@
+Wheat seeds|1|seed
+Pumpkin seeds|2|seed
+Melon seeds|3|seed
+Beetroot seeds|4|seed
+Torchflower seeds|5|seed
+Pitcher pods|6|seed

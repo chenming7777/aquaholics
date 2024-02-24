@@ -44,7 +44,7 @@ public class InventoryGUI extends javax.swing.JFrame {
                 {null, null, null}
             },
             new String [] {
-                "Name", "Quantity", "Last Modifed"
+                "Name", "Quantity", "Type"
             }
         ));
         jScrollPane1.setViewportView(jTable1);
@@ -57,7 +57,7 @@ public class InventoryGUI extends javax.swing.JFrame {
                 {null, null, null, null}
             },
             new String [] {
-                "Name", "Quantity", "Status", "Last Modified"
+                "Name", "Quantity", "Status", "Type"
             }
         ));
         jScrollPane2.setViewportView(jTable2);
