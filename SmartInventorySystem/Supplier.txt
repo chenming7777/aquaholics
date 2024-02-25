@@ -1,0 +1,3 @@
+SR00001|Happy|0328384883|SR01@gmail.com|51,Jalan House
+SR00002|Smile|0147282390|smile@mail.com|6, Jalan Hello
+SR00003|Lucky|0388746832|lucky@mail.com|8, Lucky Road
